@@ -6,3 +6,4 @@ The features include:
 2. Converting text to lowercase
 3. Capitalizing First Letter Of Each Word
 4. Removing extra spaces from your text.
+5. It also has a bonus functionality to toggle dark mode and light mode.
